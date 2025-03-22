@@ -48,3 +48,34 @@ Divisor = 3
 Quotient = 5  
 Remainder = 2  
 (5 * 3) + 2 = 17
+## Short Arithmetic Notation
+```java
+int x = 6;
+
+x += 2;
+```
+##### x = 8
+```java
+int x = 6;
+
+x -= 2;
+```
+##### x = 6
+```java
+int x = 6;
+
+x *= 2;
+```
+##### x = 12
+```java
+int x = 6;
+
+x /= 2;
+```
+##### x = 3
+```java
+int x = 6;
+
+x %= 2;
+```
+##### x = 0
