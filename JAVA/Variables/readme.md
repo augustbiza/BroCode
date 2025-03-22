@@ -1,4 +1,4 @@
-# Variable
+# Variables
 ## Primitive x Reference
 ## Primitive: int, double, char, boolean
 ## Reference: string, array, object
