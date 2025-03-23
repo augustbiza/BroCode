@@ -1,7 +1,7 @@
 # User Input
 ### How to get information FROM the USER
 ### Steps
-1. import the Scanner class
+1. Import the Scanner class
 ```java
 import java.util.Scanner;
 ```

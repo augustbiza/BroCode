@@ -1,5 +1,5 @@
 
-class Main {
+class somatorio {
 
     public static int somatorio(int n) {
 

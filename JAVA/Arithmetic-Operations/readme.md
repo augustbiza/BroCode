@@ -28,8 +28,8 @@ int x = 10, y = 3, k;
 k = x/y;
 ```
 #### Result: 3
-#### Observação divisão com "int"
-Pega apenas a parte inteira de 3,33...
+#### Note for int division
+Gets only the integer part of 3,33...  =  3
 #### double
 ```java
 int x = 10, y = 3, k;
